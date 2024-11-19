@@ -2,10 +2,10 @@
 
 
 * working on Data Science or ML<br>
-* looking to collaborate & learn about MLOps & Integrations<br>
+* looking to collaborate & learn more about MLOps & Integrations<br>
 * been fascinated by Time Series Forecasting (working on a paper, so yeah, it makes sense)<br>
-* seeking guidance in research opportunities in the domains mentioned above <br>
-* who am I?: look up my resume or portfolio...<br><be>
+* seeking guidance in research opportunities in the above domains<br>
+* who am I?: look up my resume or portfolio...duh?<br><be>
 
 
 ## the stack I mostly use:
