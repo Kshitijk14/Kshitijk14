@@ -44,10 +44,16 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 
-https://api.githubtrends.io/user/svg/Kshitijk14/langs?time_range=one_year&theme=dark
+## trends:
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/Kshitijk14/langs?time_range=one_year&theme=classic" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/Kshitijk14/repos?time_range=one_year&include_private=True&group=other&theme=classic" />
+</a>
 
 that's about it, - Ciao, 
-ohh wait, credits to [GPRM](https://gprm.itsvg.in/)
+ohh wait, credits to [GPRM](https://gprm.itsvg.in/) & [Abhijit Gupta](https://github.com/avgupta456/github-trends)
 
 now -Ciao
 
