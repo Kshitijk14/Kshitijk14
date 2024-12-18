@@ -52,7 +52,7 @@
   <img align="center" src="https://api.githubtrends.io/user/svg/Kshitijk14/repos?time_range=one_year&include_private=True&group=other&theme=classic" />
 </a>
 
-<be>
+<br><be>
 
 that's about it, - Ciao, 
 ohh wait, credits to [GPRM](https://gprm.itsvg.in/) & [Abhijit Gupta](https://github.com/avgupta456/github-trends)
