@@ -44,6 +44,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 
+https://api.githubtrends.io/user/svg/Kshitijk14/langs?time_range=one_year&theme=dark
+
 that's about it, - Ciao, 
 ohh wait, credits to [GPRM](https://gprm.itsvg.in/)
 
