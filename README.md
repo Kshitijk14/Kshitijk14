@@ -60,10 +60,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 
 ## trends:
-![](https://github-readme-stats.vercel.app/api?username=Kshitijk14&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kshitijk14&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitijk14&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/Kshitijk14/langs?time_range=one_year&theme=classic" />
 </a>
