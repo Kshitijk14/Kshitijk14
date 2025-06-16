@@ -2,8 +2,8 @@
 
 → working in Data Sc. or ML<br>
 → been fascinated by Time Series Forecasting (working on a paper, so yeah, it makes sense)<br>
-+ looking to collaborate & learn more about GenAi & MLOps<br>
-+ seeking guidance in research opportunities in the above domains<br>
+→ looking to collaborate & learn more about GenAi & MLOps<br>
+→ seeking guidance in research opportunities in the above domains<br>
 → who am I?: look up my portfolio.....duh?
 
 
