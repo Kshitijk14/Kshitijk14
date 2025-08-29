@@ -60,7 +60,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 
 
-<br><be>
+---
 
 that's about it, - Ciao, 
 ohh wait, credits to [GPRM](https://gprm.itsvg.in/)
