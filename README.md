@@ -1,10 +1,9 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitijj-chaturvedi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kshitiijj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kkshitijj02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijhrms@gmail.com)
+supp?
 
-→ working in Data Sc. or ML<br>
-→ been fascinated by Time Series Forecasting (working on a paper, so yeah, it makes sense)<br>
-→ looking to collaborate & learn more about GenAi & MLOps<br>
-→ seeking guidance in research opportunities in the above domains<br>
-→ who am I?: look up my portfolio.....duh?
+→ working in ML<br>
+→ fascinated by Time Series Forecasting (working on some papers, so it makes sense)<br>
+→ are you into MLOps & Research?: hit me up<br>
+→ who am I?: look up my portfolio.....duh? (i don't update it often)
 
 
 ## the stack I mostly use:
