@@ -8,5 +8,4 @@ supp?, i forgot how to code!
 → side note: potfolio link is not updated (since i started working)
 
 
----
-- ciao!
+ciao!
